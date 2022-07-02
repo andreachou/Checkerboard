@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    width:fit-content;
+    height: auto;
+    padding:5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.box1 {
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+}
+
+.box2 {
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+}
